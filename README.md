@@ -27,7 +27,7 @@ DEV:
 
 https://afdian.net/a/manong
 ## How to Build
-## 如何编译
+## 如何编译 此处修改版本20231202
 
 ### If your are familiar with Android development:
 * Fork this repository.
